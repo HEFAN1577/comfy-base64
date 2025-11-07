@@ -1,0 +1,11 @@
+{
+  "author": "HEFAN1577",
+  "title": "ComfyUI Base64 Nodes",
+  "id": "comfy-base64",
+  "reference": "https://github.com/HEFAN1577/comfy-base64",
+  "files": [
+    "https://github.com/HEFAN1577/comfy-base64"
+  ],
+  "install_type": "git-clone",
+  "description": "Custom nodes for Base64 image/mask loading, input nodes, WebSocket output, Leafer integration, and workflow saver."
+}
